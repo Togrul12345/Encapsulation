@@ -12,3 +12,4 @@ C:\Users\Togrul\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\refint
 C:\Users\Togrul\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
 C:\Users\Togrul\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
 C:\Users\Togrul\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
+C:\Users\Togrul\source\repos\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
